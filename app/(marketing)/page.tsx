@@ -68,12 +68,8 @@ const pricing = {
     price: plan.price ?? '',
   })),
 }
-import testimonials from '#data/testimonials'
 
-export const meta: Metadata = {
-  title: 'Saas UI Landingspage',
-  description: 'Free SaaS landingspage starter kit',
-}
+import testimonials from '#data/testimonials'
 
 const Home: NextPage = () => {
   return (
