@@ -4,7 +4,7 @@ import { Link } from '@saas-ui/react'
 import { NextPage } from 'next'
 import NextLink from 'next/link'
 import { FaGithub, FaGoogle } from 'react-icons/fa'
-
+// File ini dihapus karena signup tidak diperlukan
 import { Features } from '#components/features'
 import { BackgroundGradient } from '#components/gradients/background-gradient'
 import { PageTransition } from '#components/motion/page-transition'

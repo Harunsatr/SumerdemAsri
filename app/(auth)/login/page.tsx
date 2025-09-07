@@ -6,7 +6,7 @@ import { PageTransition } from 'components/motion/page-transition'
 import { Section } from 'components/section'
 import { NextPage } from 'next'
 import { FaGithub, FaGoogle } from 'react-icons/fa'
-
+// File ini dihapus karena login tidak diperlukan
 const providers = {
   google: {
     name: 'Google',
