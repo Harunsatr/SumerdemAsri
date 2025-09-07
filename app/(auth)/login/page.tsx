@@ -37,5 +37,4 @@ const Login: NextPage = () => {
   )
 }
 
-// Halaman login dihapus karena tidak diperlukan
-export default null
+
