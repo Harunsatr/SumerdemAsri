@@ -95,5 +95,7 @@ const Login: NextPage = () => {
     </Section>
   )
 }
-
-export default Login
+// Halaman signup dihapus karena tidak diperlukan
+// export default null
+// - --- IGNORE ---
+// -export default Login --- IGNORE ---
